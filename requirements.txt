@@ -1,0 +1,4 @@
+gym
+pyswip
+numpy
+networkx
